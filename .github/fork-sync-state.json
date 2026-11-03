@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-02T15:41:06.020622+00:00",
+  "checked_at": "2026-11-03T14:04:05.414659+00:00",
   "upstream": "scamsniffer/scam-database",
   "upstream_branch": "main",
-  "upstream_commit": "87c9e143e6495c4147b4a603c35eeb32ac167724",
+  "upstream_commit": "9b076e5074cffb0331af4531f7116dd1006f15af",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
